@@ -2,4 +2,4 @@ module github.com/ashvarts/greenlight
 
 go 1.25.5
 
-require github.com/julienschmidt/httprouter v1.3.0 // indirect
+require github.com/julienschmidt/httprouter v1.3.0
