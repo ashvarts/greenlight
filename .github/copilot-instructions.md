@@ -27,3 +27,5 @@ The httprouter package is now being used directly in the codebase
 (in routes.go for request routing), so it should no longer be marked
 as an indirect dependency in go.mod.
 ```
+
+3. Favor multiple commit messages in logically grouped hunks per commit that tell a story.
